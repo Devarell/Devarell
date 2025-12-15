@@ -41,12 +41,14 @@ Here are some highlights from my academic journey:
 **🤖 Predictive Analysis Model (Machine Learning)**
 > *Focus: Supervised Learning & Data Prediction*
 - Developed a machine learning model to analyze patterns and predict outcomes with high accuracy.
-- **Tech used:** Python, Scikit-learn, Pandas.
+- **Tech used:** Python, Scikit-learn, Pandas
+- https://github.com/Devarell/MLProject.
 
 **🎨 User-Centric App Design (HCI)**
 > *Focus: UI/UX & Prototyping*
 - Designed an intuitive application interface focusing on user accessibility and seamless navigation.
 - Achieved **A Grade** for implementation of Human-Computer Interaction principles.
+- https://github.com/Devarell/HCIProject
 
 ---
 

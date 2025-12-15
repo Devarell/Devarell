@@ -2,7 +2,7 @@
 
 I am a **Software Engineering Student** at Binus University (Bekasi), passionate about bridging the gap between intelligent systems and human-centric design.
 
-Current status: 🎓 Undergraduate Student (Semester 4)
+Current status: 🎓 Undergraduate Student (Semester 5)
 Focus: 🤖 Machine Learning & 🎨 Human-Computer Interaction (UI/UX)
 
 ---

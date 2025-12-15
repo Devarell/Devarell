@@ -50,6 +50,11 @@ Here are some highlights from my academic journey:
 - Achieved **A Grade** for implementation of Human-Computer Interaction principles.
 - https://github.com/Devarell/HCIProject
 
+**🏗️ Scalable App Architecture (FLA)**
+> *Focus: Framework Layer Architecture & Backend Design*
+- Designed a multi-tier application structure emphasizing **Separation of Concerns** (Presentation, Logic, Data).
+- Implemented robust design patterns to ensure code scalability and maintainability.
+- https://github.com/Devarell/FLAProject
 ---
 
 ### 🌐 Connect with Me
